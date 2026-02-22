@@ -28,6 +28,7 @@ local integrations = {
   "tbline",
   "telescope",
   "whichkey",
+  "gitsigns",
   "neotest",
 }
 
